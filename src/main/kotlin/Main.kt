@@ -1,5 +1,5 @@
 fun print(n: String) : String{
-    return "Hello, my name is " + n;
+    return "Hello, my name is " + n
 }
 
 fun main() {

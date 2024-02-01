@@ -1,7 +1,7 @@
 const val g = 9.8
 fun main() {
     // 0:40:10
-    //1 : 00 : 00 start
+    //1 : 00 : 00 start start
     var n : Int = 1
     var l : Long = 250L
     var d : Double = 6.66
